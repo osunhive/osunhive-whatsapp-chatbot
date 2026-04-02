@@ -10,7 +10,7 @@ const settings = {
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
   version: "3.0.6",
-  updateZipUrl: "https://github.com/osunhive-whatsapp-chatbot/archive/refs/heads/master.zip",
+  updateZipUrl: "https://github.com/osunhive/osunhive-whatsapp-chatbot/archive/refs/heads/master.zip",
 };
 
 module.exports = settings;
