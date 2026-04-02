@@ -214,7 +214,7 @@ async function handleMessages(sock, messageUpdate, printLog) {
                 return;
             } else if (buttonId === 'support') {
                 await sock.sendMessage(chatId, {
-                    text: `🔗 *Support*\n\nhttps://chat.whatsapp.com/0029VbCLDrLHwXbIgID7jf1l?mode=wwt`
+                    text: `🔗 *Support*\n\nhttps://chat.whatsapp.com/Cqjata0UXdDJfzS10TSYmQ?mode=wwt`
                 }, { quoted: message });
                 return;
             }
