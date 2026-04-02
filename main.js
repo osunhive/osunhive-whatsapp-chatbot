@@ -154,7 +154,7 @@ const soraCommand = require('./commands/sora');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A";
+global.channelLink = "https://whatsapp.com/channel/0029VbCLDrLHwXbIgID7jf1l";
 global.ytch = "Osunhiveofficial";
 
 // Add this near the top of main.js with other global configurations
@@ -163,7 +163,7 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363405633748832@newsletter_30',
+            newsletterJid: '120363405633748832@newsletter',
             newsletterName: 'Osunhive Bot MD',
             serverMessageId: -1
         }
