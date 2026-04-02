@@ -163,7 +163,7 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363161513685998@newsletter',
+            newsletterJid: '120363405633748832@newsletter_30',
             newsletterName: 'Osunhive Bot MD',
             serverMessageId: -1
         }
